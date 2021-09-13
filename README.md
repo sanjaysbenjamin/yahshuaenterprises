@@ -1,2 +1,2 @@
-# yahshuaenterprises
-yahshuaenterprises
+# yahshuaenterprises.github.io
+yahshuaenterprises.github.io
